@@ -1,0 +1,17 @@
+INSERT INTO `orders` VALUES (88, '水浒传', 18, NULL, 79, 11, 869, 17, '2017-12-22 08:15:57', 'confirm', 10);
+INSERT INTO `orders` VALUES (64, 'JAVAEE', 11, NULL, 27, 100, 2700, 2, '2017-12-20 10:26:54', 'confirm', 2);
+INSERT INTO `orders` VALUES (60, 'Higher Algebra', 1, NULL, 19, 100, 1900, 3, '2017-12-19 16:53:16', 'confirm', 3);
+INSERT INTO `orders` VALUES (63, 'OS', 9, NULL, 31, 1, 31, 10, '2017-12-20 10:08:22', 'confirm', 5);
+INSERT INTO `orders` VALUES (62, 'OS', 9, NULL, 31, 111, 3441, 10, '2017-12-20 10:07:48', 'confirm', 5);
+INSERT INTO `orders` VALUES (87, 'OS', 9, NULL, 31, 1, 31, 17, '2017-12-22 08:15:23', 'confirm', 10);
+INSERT INTO `orders` VALUES (78, '蛙', 20, NULL, 69, 2, 138, 11, '2017-12-21 15:07:46', 'confirm', 6);
+INSERT INTO `orders` VALUES (83, '红楼梦', 17, NULL, 99, 12, 1188, 16, '2017-12-21 20:01:52', 'confirm', 9);
+INSERT INTO `orders` VALUES (84, 'Higher Algebra', 1, NULL, 19, 123, 2337, 3, '2017-12-20 10:45:55', 'not upload', 3);
+INSERT INTO `orders` VALUES (86, '红楼梦', 17, NULL, 99, 12, 1188, 16, '2017-12-22 08:11:59', 'not upload', 0);
+INSERT INTO `orders` VALUES (76, '蛙', 20, NULL, 69, 1, 69, 14, '2017-12-21 14:54:31', 'not upload', 0);
+INSERT INTO `orders` VALUES (77, 'OS', 9, NULL, 31, 2, 62, 11, '2017-12-21 15:07:33', 'not upload', 6);
+INSERT INTO `orders` VALUES (81, 'JAVAEE', 11, NULL, 27, 23, 621, 1, '2017-12-20 15:54:07', 'not upload', 1);
+INSERT INTO `orders` VALUES (79, 'JAVAEE', 11, NULL, 27, 1, 27, 12, '2017-12-21 15:22:48', 'not upload', 7);
+INSERT INTO `orders` VALUES (82, 'JAVAEE', 11, NULL, 27, 1, 27, 15, '2017-12-21 19:59:14', 'not upload', 8);
+INSERT INTO `orders` VALUES (91, 'OS', 9, NULL, 31, 1, 31, 3, '2017-12-21 20:07:52', 'not upload', 3);
+INSERT INTO `orders` VALUES (90, '三国演义', 16, NULL, 89, 1, 89, 18, '2017-12-22 08:22:43', 'not upload', 11);

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.bean">
+	<class name="Orders">
+		<id name="orderId">
+			<generator class="increment"/>
+		</id> 
+		
+		<property name="bookId"/>
+		<property name="order_time"/>
+		<property name="order_state"/>
+		<property name="name"/>
+		<property name="price"/>		
+		<property name="addPrice"/>
+		<property name="number"/>
+		<property name="userId"/>
+		<property name="addressId"/>
+		<property name="author"/>
+
+	</class>
+</hibernate-mapping>
